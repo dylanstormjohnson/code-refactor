@@ -3,7 +3,7 @@
 Image
 
 Here is an unage of the completed website:
-![The Horiseon Webpage in full, showing its many elements, including its navigation bar, heading image, and informational sections.](./assets/Horiseon-Website-Full-Page-Screenshot.png)
+![The Horiseon Webpage in full, showing its many elements, including its navigation bar, heading image, and informational sections.](./assets/images/Horiseon-Website-Full-Page-Screenshot.png)
 
 Description
     - what
